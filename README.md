@@ -1,27 +1,25 @@
-# Nggallery
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
+# Curso de Angular 4 con Laravel 5 (Frontend)
 
-## Development server
+  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Este proyecto fue generado usando  [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
+Este repositorio es un fork del repositorio creado por [javierescolar](https://github.com/javierescolar) con base en el [curso](https://www.youtube.com/watch?v=H5jfnstvNXA&list=PLEtcGQaT56chhi-qsqxIrUG_n9pXYCZ8z) desarrollado por [Jesús Conde](https://github.com/0utKast)
+  
 
-## Code scaffolding
+## Pasos de Instalación
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  
+0. Clona el repositorio git en tu ordenador 
+1. Ejecuta `npm install` después de clonar el repositorio, para
+    descargar las dependencias.
+2. Ejecuta `ng serve -o` para ejecutar el proyecto en el navegador
+    predeterminado.
 
-## Build
+  
+## Notas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+ - Este repositorio funciona en conjunto con el repositorio de [backend](https://github.com/judasane/backend-ng4-laravel5-jesus-conde-) del curso
+- Resalto que la propiedad intelectual del curso es de Jesús Conde
+- Existe [otros repositorios](https://github.com/0utKast?tab=repositories) oficiales con los archivos usados en el curso vídeo a vídeo, desarrollado por el mismísimo Jesús Conde
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
